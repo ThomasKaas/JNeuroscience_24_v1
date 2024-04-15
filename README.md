@@ -1,7 +1,7 @@
 ## Analysis Train Data (Patch-Clamp)
 
 ### General
-This repository contains all the code used to analyze train data (e.g. postsynaptic currents evoked by extracellular stimulation) obtained by somatic patch-clamp recordings n iPSC-derived Human neurons in vitro as is presented in the following publication: 
+This repository contains all the code used to analyze train data (e.g. postsynaptic currents evoked by extracellular stimulation) obtained by somatic patch-clamp recordings in iPSC-derived Human neurons in vitro as is presented in the following publication: 
 
 "Human iPSC-derived neurons with reliable synapses and large presynaptic action potentials" Torsten Bullmann*, Thomas Kaas*, Andreas Ritzau-Jost*, Anne Wöhner, Toni Kirmann, Filiz Sila Rizalar,Max Holzer, Jana Nerlich, Dmytro Puchkov,Christian Geis, Jens Eilers, Robert J. Kittel, Thomas Arendt, Volker Haucke, Stefan Hallermann#. *These authors contributed equally. #Corresponding author.
 
